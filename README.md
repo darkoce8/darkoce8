@@ -1,5 +1,5 @@
 - 👋 @darkoce8
-- 🌱 Python, Javascript
+- 🌱 Python, Javascript, learning java
 - 📫 Discord: talibans#4734
 
 <!---
